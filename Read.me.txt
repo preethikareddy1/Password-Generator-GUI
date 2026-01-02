@@ -1,0 +1,19 @@
+## Project Description
+
+The Password Generator GUI is a Python-based desktop application designed to help users generate **strong, secure passwords** with ease. With the increasing need for online security, creating unique and complex passwords is essential, and this project provides a simple yet powerful solution.
+
+The application is built using **Tkinter**, Python’s standard GUI library, which allows for an interactive and user-friendly interface. Users can specify the desired password length, choose whether to include numbers and symbols, and instantly generate a password that meets their security needs.  
+
+Key functionalities include:  
+- **Password Strength Indicator:** Displays whether the generated password is Weak, Medium, or Strong based on its length and character variety.  
+- **Copy to Clipboard:** Allows users to copy the password directly for use in accounts or applications.  
+- **Automatic Password Saving:** All generated passwords are saved to a local file (`passwords.txt`) for future reference.  
+- **Light and Dark Mode:** Users can toggle between themes for a comfortable experience.  
+
+This project demonstrates practical Python skills including:  
+- **GUI Development** using Tkinter  
+- **Randomization and String Manipulation** for password generation  
+- **File Handling** to save passwords securely  
+- **User Interface Design** for a functional and intuitive experience  
+
+This application is ideal for beginners and intermediate Python developers who want to showcase a **real-world, functional project** in their portfolio, combining both programming logic and user-friendly design.
